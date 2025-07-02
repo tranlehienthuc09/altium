@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=A-GSM.SchDoc|SheetNumber=02
+Record=NoMainPathDocument|SourceDocument=A-GSM.SchDoc|FileName=A-Main.SchDoc|SheetNumber=01
+Record=NoMainPathDocument|SourceDocument=A-GSM.SchDoc|FileName=A-Power.SchDoc|SheetNumber=03
