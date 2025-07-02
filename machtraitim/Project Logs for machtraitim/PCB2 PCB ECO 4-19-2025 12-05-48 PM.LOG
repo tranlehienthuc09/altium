@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=R1-1
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=NetIC2_3 Pin=R2-1
+Removed Pin From Net: NetName=NetIC1_14 Pin=R2-2
+Removed Pin From Net: NetName=NetLED1_2 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC2_7 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=NetIC2_3 Pin=R2-1
+Added Pin To Net: NetName=NetIC1_14 Pin=R2-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Member To Class: ClassName=Sheet2 Member=Component C1 1uF/50V
+Added Member To Class: ClassName=Sheet2 Member=Component C2 1uF/50V
+Added Member To Class: ClassName=Sheet2 Member=Component R1 10K, 1/4W
+Added Member To Class: ClassName=Sheet2 Member=Component R2 10K, 1/4W
+Added Room: Name=Sheet2
