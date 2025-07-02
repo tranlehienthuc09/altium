@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [machkhoasodientu.PrjPcb]
+   Generated File[machkhoasodientu(dachinhsua).TXT]
+   Generated File[machkhoasodientu(dachinhsua).LDP]
+   Generated File[machkhoasodientu(dachinhsua).DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:57:53 AM On 6/6/2025

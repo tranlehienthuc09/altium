@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=KEY1 Pin=JP1-1
+Removed Pin From Net: NetName=KEY2 Pin=JP1-2
+Removed Pin From Net: NetName=KEY3 Pin=JP1-3
+Removed Pin From Net: NetName=KEY4 Pin=JP1-4
+Removed Pin From Net: NetName=KEY5 Pin=JP1-5
+Removed Pin From Net: NetName=KEY6 Pin=JP1-6
+Removed Pin From Net: NetName=KEY7 Pin=JP1-7
+Removed Pin From Net: NetName=KEY8 Pin=JP1-8
+Removed Member From Class: ClassName=machkhoasodientu Member=JP1
+Added Component: Designator=HD1(Header_8)
+Add component (AddParameter): Name = "Creat by"; Value = "VanDungEvn@Gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=KEY1 Pin=HD1-1
+Added Pin To Net: NetName=KEY2 Pin=HD1-2
+Added Pin To Net: NetName=KEY3 Pin=HD1-3
+Added Pin To Net: NetName=KEY4 Pin=HD1-4
+Added Pin To Net: NetName=KEY5 Pin=HD1-5
+Added Pin To Net: NetName=KEY6 Pin=HD1-6
+Added Pin To Net: NetName=KEY7 Pin=HD1-7
+Added Pin To Net: NetName=KEY8 Pin=HD1-8
+Added Member To Class: ClassName=machkhoasodientu Member=Component HD1 HD8
+Added Room: Name=machkhoasodientu

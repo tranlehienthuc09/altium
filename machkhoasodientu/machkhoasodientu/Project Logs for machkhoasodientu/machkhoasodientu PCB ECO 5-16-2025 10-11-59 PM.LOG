@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C2 Old Footprint=CP4/8.5 New Footprint=CP1/2.5
+Change Component Footprint: Designator=C3 Old Footprint=CP4/8.5 New Footprint=CP1/2.5
+Change Component Footprint: Designator=C4 Old Footprint=CP4/8.5 New Footprint=CP1/2.5
+Change Component Comment : Designator=C2 Old Comment=4700uF/50V New Comment=100uF
+Change Component Comment : Designator=C3 Old Comment=4700uF/50V New Comment=100uF
+Change Component Comment : Designator=C4 Old Comment=4700uF/50V New Comment=100uF
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CP4/8.5"; UniqueID = "\OPCVKAJZ" ("\OPCVKAJZ")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CP4/8.5"; UniqueID = "\LCBRXSQX" ("\LCBRXSQX")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CP4/8.5"; UniqueID = "\KTJDPEYR" ("\KTJDPEYR")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "470uF/6,3V - 330uF/10V - 220uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "100uF/25V - 35V - 47uF/50V - 22uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "33uF => 47uF/63V - 1uF => 4,7uF/160V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "1uF => 2,2uF/250V - 1uF/350V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF/16 - 50V"; VariantName = "[No Variations]"
+Added Room: Name=machkhoasodientu

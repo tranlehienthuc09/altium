@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=JP3-1
+Removed Pin From Net: NetName=+5 Pin=JP3-2
+Removed Member From Class: ClassName=machkhoasodientu Member=JP3
+Change Component Designator: OldDesignator=HD1 NewDesignator=JP1
+Added Component: Designator=JP2(Header_2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=+5 Pin=JP2-2
+Added Member To Class: ClassName=machkhoasodientu Member=Component JP1 HD8
+Added Member To Class: ClassName=machkhoasodientu Member=Component JP2 Header 2
+Added Room: Name=machkhoasodientu
