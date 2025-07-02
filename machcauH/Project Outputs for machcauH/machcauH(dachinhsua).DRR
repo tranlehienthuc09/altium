@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: machcauH(dachinhsua).PcbDoc   6/6/2025  12:51:34 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : machcauH(dachinhsua).TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             8         PTH        1.74inch (44.15mm)
+T2      31mil (0.787mm)                                           Round             6         PTH        2.08inch (52.80mm)
+T3      32mil (0.8mm)                                             Round             8         PTH        1.82inch (46.23mm)
+T4      35mil (0.899mm)                                           Round             5         PTH        0.40inch (10.16mm)
+T5      39mil (1.001mm)                                           Round             28        PTH        4.82inch (122.30mm)
+T6      39mil (1.001mm)                                           Round             2         NPTH       0.10inch (2.54mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              57
+
+Total Processing Time (hh:mm:ss) : 00:00:00

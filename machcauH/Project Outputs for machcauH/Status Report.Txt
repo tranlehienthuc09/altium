@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [machcauH.PrjPcb]
+   Generated File[machcauH(dachinhsua).GTO]
+   Generated File[machcauH(dachinhsua).GTP]
+   Generated File[machcauH(dachinhsua).GTS]
+   Generated File[machcauH(dachinhsua).GTL]
+   Generated File[machcauH(dachinhsua).GBL]
+   Generated File[machcauH(dachinhsua).GBS]
+   Generated File[machcauH(dachinhsua).GBP]
+   Generated File[machcauH(dachinhsua).GBO]
+   Generated File[machcauH(dachinhsua).GM1]
+   Generated File[machcauH(dachinhsua).GM2]
+   Generated File[machcauH(dachinhsua).GM13]
+   Generated File[machcauH(dachinhsua).GM15]
+   Generated File[machcauH(dachinhsua).GKO]
+   Generated File[machcauH(dachinhsua).GPT]
+   Generated File[machcauH(dachinhsua).GPB]
+   Generated File[machcauH(dachinhsua).GD1]
+   Generated File[machcauH(dachinhsua).GG1]
+   Generated File[machcauH(dachinhsua).RUL]
+   Generated File[machcauH(dachinhsua).EXTREP]
+   Generated File[machcauH(dachinhsua).REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 12:56:30 AM On 6/6/2025
